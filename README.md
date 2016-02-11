@@ -1,4 +1,3 @@
-gitbook
-=======
+# GitBook v{{ book.version }}: Technical documentation
 
-Library and command line utility for generating GitBooks
+
